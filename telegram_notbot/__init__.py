@@ -1,1 +1,1 @@
-from notbot import NotBot
+from .notbot import NotBot
